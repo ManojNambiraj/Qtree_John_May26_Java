@@ -9,12 +9,12 @@ public class MyArrays {
 
 //        String[] arr = {"Volvo", "BMW", "Hyundai"};
 
-        String[] arr = new String[3];
-
-        arr[0] = "Ferrari";
-        arr[1] = "Ford";
-        arr[2] = "Audi";
-
+//        String[] arr = new String[3];
+////
+//        arr[0] = "Ferrari";
+//        arr[1] = "Ford";
+//        arr[2] = "Audi";
+//
 //        System.out.println(arr[0]);
 //        System.out.println(arr[1]);
 //        System.out.println(arr[2]);
@@ -24,8 +24,8 @@ public class MyArrays {
 //            System.out.println(arr[i]);
 //        }
 
-        for(String item : arr){
-            System.out.println(item);
-        }
+//        for(String item : arr){
+//            System.out.println(item);
+//        }
     }
 }
