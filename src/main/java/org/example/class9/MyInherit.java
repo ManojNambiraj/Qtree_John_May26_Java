@@ -29,6 +29,7 @@ public class MyInherit {
         Child sam = new Child();
 
         System.out.println(sam.packetMoney);
+        System.out.println(sam.isAssets);
         sam.hairColor("Black");
         sam.Habits();
     }
